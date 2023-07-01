@@ -1,0 +1,36 @@
+{
+    "lang": "zh-CN",
+    "name": "HelloKaiOS",
+    "id": "HelloKaiOS",
+    "short_name": "HelloKaiOS",
+    "categories": ["utilities"],
+    "description": "A Hello World app",
+    "icons": [
+        {
+            "src": "/icons/icon16x16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/icons/icon48x48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/icons/icon48x48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/icons/icon60x60.png",
+            "type": "image/png",
+            "sizes": "60x60"
+        },
+        {
+            "src": "/icons/icon128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        }
+    ],
+    "start_url": "/index.html"
+}
